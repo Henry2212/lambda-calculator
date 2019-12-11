@@ -38,6 +38,7 @@ function App() {
         <Display number={displayValue} />
         <Numbers addNumber={addNumber} />
         <Operators addOperator={addOperator} />
+        
         <Specials />
       </div>
     </div>
